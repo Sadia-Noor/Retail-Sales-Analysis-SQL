@@ -19,8 +19,7 @@ This project involves analyzing sales transactions using SQL. The dataset contai
 Retail-Sales-Analysis-SQL/
 │── 📜 README.md                # Project documentation
 │── 📜 retail_sales_analysis.sql # SQL queries for data analysis
-│── 📜 retail_sales_schema.png   # Schema diagram (if available)
-│── 📜 dataset.csv               # Dataset (if included)
+│── 📜 dataset.csv               # Dataset
 ```
 
 ---
