@@ -94,7 +94,7 @@ ORDER BY profit DESC;
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Retail-Sales-Analysis-SQL.git
+   git clone https://github.com/sadia-noor/Retail-Sales-Analysis-SQL.git
    ```
 2. **Import the SQL script into your database**
    - Use MySQL, PostgreSQL, or any SQL-based system
